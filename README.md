@@ -4,8 +4,8 @@ This project is part of the IBM AI Engineering Specialization Capstone project, 
 
 The example of the concrete images are shown below:
 <p>
-  <img src='/concrete_data/test/positive/19751.jpg' width="30%">
-  <img src='/concrete_data/test/negative/19751.jpg' width="30%">
+  <img src='/concrete_data/test/positive/19751.jpg' width="25%">
+  <img src='/concrete_data/test/negative/19751.jpg' width="25%">
 </p>
 
 The neural networks are trained with over 40,000 concrete images, and achieves a binary classification test accuracy of 100% and 99.8% for the Resnet50 and VGG16 respectively. Note as the image file sizes are large, only a small sample of images for the training, test, and validation sets are provided here.
